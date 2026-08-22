@@ -1,0 +1,9 @@
+node_modules/
+.next/
+out/
+.DS_Store
+*.log
+
+# Source master. The scrub encodes in public/video are derived from it.
+Edinburgh.mp4
+tools/
